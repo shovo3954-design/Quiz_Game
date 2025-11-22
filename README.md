@@ -1,4 +1,4 @@
-# html_project
+ html_project
 
 *{
     padding:0;
@@ -154,7 +154,7 @@ u{color:red;}
 }
 
 .my_animation{
-    width:1600px;
+    width:1600p.
     height:650px;
     background-image:url(/sport.webp);
     background-size:cover;
@@ -165,4 +165,7 @@ u{color:red;}
     from{background-image:url(/sport.webp)}
     to{background-image:url(/badminton_background.jpg)}
 }
-  
+I'm adding something.
+
+
+
